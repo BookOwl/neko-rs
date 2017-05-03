@@ -3,6 +3,13 @@ name = "neko"
 version = "0.1.0"
 authors = ["BookOwl <stanleybookowl@gmail.com>"]
 build = "build.rs"
+description = "Rusty bindings to the neko vm"
+documentation = "https://docs.rs/neko"
+repository = "https://github.com/BookOwl/neko-rs"
+readme = "README.md"
+keywords = ["neko", "vm"]
+categories = ["external-ffi-bindings"]
+license = "Unlicense"
 
 [dependencies]
 
