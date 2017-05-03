@@ -2,6 +2,7 @@
 name = "neko"
 version = "0.1.0"
 authors = ["BookOwl <stanleybookowl@gmail.com>"]
+build = "build.rs"
 
 [dependencies]
 
